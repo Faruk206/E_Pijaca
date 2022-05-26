@@ -1,0 +1,15 @@
+{
+  "name": "e-pijaca",
+  "version": "0.7.0",
+  "description": "skolski projekatz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "author": "farukbalihodzic,arnessarajcic, kadiralibasic, zlotrgnedim, zelkanovicalmir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
